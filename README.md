@@ -11,7 +11,7 @@ Projeto desenvolvido no curso Explorer da Rocketseat.
   <a href="#-contato">Contatos</a>
 </p>
 <p align="center">
-  <img alt="License" src="./preview.png">
+  <img alt="License" src="./assets/img/preview.png">
 </p>
 
 ## 🚀 Tecnologias
